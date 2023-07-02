@@ -50,9 +50,6 @@ Step 4: Enter ST10193514_PROG6221_POE.exe
 
 Step 5: Additionally, the file with the same name can be clicked and ran in the file explorer menu.
 
-PARTS
-
-PART ONE
 
 The first release of three of the application. This part is the most basic in design and functionality
 
@@ -85,9 +82,3 @@ Functions
 
 12.The user can option to create a new recipe; however the previous recipe/s will not be stored in memory.
 
-PART TWO
-
-Part TWO is an updated version in of part ONE. The program will notify if the user's recipe exceed 300 calories
-
-PART THREE (FULL APPLICATION)
-The file will be updated when this version is released.
